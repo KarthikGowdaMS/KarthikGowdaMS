@@ -68,7 +68,7 @@ Find out more about me here:
         <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion"  alt="Notion" /></a>
    </p>
   <p align = "center" ><br> 
-        <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikGowdaMS&langs_count=6&theme=radical&layout=compact&hide_border=true" />
+        <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikGowdaMS&langs_count=5&theme=radical&layout=compact&hide_border=true" />
   </p>
 </p>
 
