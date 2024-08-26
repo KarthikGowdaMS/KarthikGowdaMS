@@ -24,10 +24,10 @@ Find out more about me here:
     <i>Connect with me </i>
     <p align="center">
       <a href="https://linkedin.com/in/karthikgowdams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikgowdams" height="30" width="40" /></a>
-<a href="https://instagram.com/karthikgowdaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikgowdaa._"  height="30" width="40"  /></a>
+<a href="https://instagram.com/karthiikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthiikgowda"  height="30" width="40"  /></a>
 <a href="https://x.com/mskarthikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mskarthikgowda"  height="30" width="40" /></a>
       <a href="https://kaggle.com/karthikgowdams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karthikgowdams" height="30" width="40" /></a>
-      <a href="https://fb.com/mskarthikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mskarthikgowda" height="30" width="40"  /></a>
+      <a href="https://fb.com/karthiikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthiikgowda" height="30" width="40"  /></a>
 
 
    </p>
