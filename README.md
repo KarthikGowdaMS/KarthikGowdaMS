@@ -2,10 +2,6 @@
 
 <p>A pre final year Computer Science student at the National Institute of Engineering, Mysore. I'm a full-stack Web Developer with interest in the field of Machine Learning. </p>
 
-- 🔍 **Currently Learning:** 
-    - React
-    - Azure
-    - Docker
 - 🧠 **Interests:** Machine Learning, Gen AI
 
 💬 Ask me about JavaScript, Nodejs, Express 
