@@ -2,7 +2,7 @@
 
 <p>A pre final year Computer Science student at the National Institute of Engineering, Mysore. I'm a full-stack Web Developer with interest in the field of Machine Learning. </p>
 
-- 🧠 **Interests:** Machine Learning, Gen AI
+🧠 **Interests:** Machine Learning, Gen AI
 
 💬 Ask me about JavaScript, Nodejs, Express 
 
