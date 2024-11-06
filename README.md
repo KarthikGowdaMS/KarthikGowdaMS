@@ -4,7 +4,7 @@
 
 🧠 **Interests:** Machine Learning, Gen AI
 
-💬 Ask me about JavaScript, Nodejs, Express 
+💬 Ask me about JavaScript, Node.js, Express.js
 
 I have worked in the MERN stack to build various apps on the web and have also collaborated with my team in building innovative apps together.
 <br>
