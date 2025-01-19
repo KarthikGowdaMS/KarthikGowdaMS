@@ -1,8 +1,8 @@
 <h1 align="center"> Hello 👋, I'm Karthik Gowda M S</h1>
 
-<p>A pre final year Computer Science student at the National Institute of Engineering, Mysore. I'm a full-stack Web Developer with interest in the field of Machine Learning. </p>
+<p>A Final year Computer Science student at the National Institute of Engineering, Mysore. I'm a full-stack Web Developer with interest in the field of Machine Learning. </p>
 
-🧠 **Interests:** Machine Learning, Gen AI
+🧠 **Interests:** Machine Learning, Data Science
 
 💬 Ask me about JavaScript, Node.js, Express.js
 
