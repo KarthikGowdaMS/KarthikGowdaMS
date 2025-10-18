@@ -1,13 +1,11 @@
-<h1 align="center"> Hello 👋, I'm Karthik Gowda M S</h1>
+<h1 align="center"> Hey, I'm Karthik Gowda </h1>
 
-<p>A Final year Computer Science student at the National Institute of Engineering, Mysore. I'm a full-stack Web Developer with interest in the field of Machine Learning. </p>
+<h3 align="center"> Checkout my GitHub Profile </h3>
 
-🧠 **Interests:** Machine Learning, Data Science
+I enjoy solving complex problems, collaborating across teams, and bringing ideas to life through code — whether it’s designing systems, improving user journeys, or experimenting with something new, I find joy in the process of creating and learning.
 
-💬 Ask me about JavaScript, Node.js, Express.js
+Tech keeps changing — and that’s what keeps me excited to keep building. 💡
 
-I have worked in the MERN stack to build various apps on the web and have also collaborated with my team in building innovative apps together.
-<br>
 Find out more about me here:
 
 
@@ -20,12 +18,7 @@ Find out more about me here:
     <i>Connect with me </i>
     <p align="center">
       <a href="https://linkedin.com/in/karthikgowdams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikgowdams" height="30" width="40" /></a>
-<a href="https://instagram.com/karthiikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthiikgowda"  height="30" width="40"  /></a>
 <a href="https://x.com/mskarthikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mskarthikgowda"  height="30" width="40" /></a>
-      <a href="https://kaggle.com/karthikgowdams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karthikgowdams" height="30" width="40" /></a>
-      <a href="https://fb.com/karthiikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthiikgowda" height="30" width="40"  /></a>
-
-
    </p>
 </p>
 
